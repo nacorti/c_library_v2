@@ -134,8 +134,8 @@
         <description>Tiltrotor VTOL</description>
       </entry>
       <!-- Entries up to 25 reserved for other VTOL airframes -->
-      <entry value="22" name="MAV_TYPE_VTOL_RESERVED2">
-        <description>VTOL reserved 2</description>
+      <entry value="22" name="MAV_TYPE_VTOL_COMPOUND">
+        <description>VTOL Compound</description>
       </entry>
       <entry value="23" name="MAV_TYPE_VTOL_RESERVED3">
         <description>VTOL reserved 3</description>
